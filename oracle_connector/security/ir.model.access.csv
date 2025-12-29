@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_oracle_connector,oracle.connector,model_oracle_connector,base.group_user,1,1,1,1
+access_oracle_table_selector,oracle_table_selector,model_oracle_table_selector,base.group_user,1,1,1,1
+access_oracle.data.preview,oracle.data.preview,model_oracle_data_preview,base.group_user,1,1,1,1
